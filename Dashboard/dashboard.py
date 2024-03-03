@@ -1,1 +1,1 @@
-
+copy sintax dari vscode
